@@ -1,4 +1,4 @@
-<h2> DevTown </h2>
+<h2> DevTown TechTalk </h2>
 <hr size = "10px">
 
 <h3> 1/5일 검색엔진최적화 </h3>
